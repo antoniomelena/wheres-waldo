@@ -1,0 +1,9 @@
+:root {
+  --primary: rgb(44, 55, 61);
+  --secondary: rgb(69, 87, 96);
+}
+
+body {
+  background: var(--primary);
+  color: #fff;
+}
